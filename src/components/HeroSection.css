@@ -1,0 +1,8 @@
+.hero-section {
+    /* imagine de fundal (poate fi ceva generic cu deseuri, mediu etc.) */
+    background: url('https://via.placeholder.com/1200x600') no-repeat center center;
+    background-size: cover;
+    height: 80vh; /* inaltime pe ecran mare; ajusteaza dupa preferinta */
+    position: relative;
+  }
+  
