@@ -63,7 +63,7 @@ function App() {
         <Container className="text-center" data-aos="fade-down">
           <h1 className="mb-3">Reciclează cu noi!</h1>
           <p className="mb-4">Ioconprez SRL - ridicări gratuite, mediu mai curat</p>
-          <Button variant="light" size="lg" data-aos="zoom-in">
+          <Button variant="light" size="lg" data-aos="zoom-in" href="#contact">
             Contactează-ne
           </Button>
         </Container>
@@ -217,13 +217,13 @@ function App() {
               <div className="d-flex justify-content-center gap-3 mt-3">
                 <Button
                   variant="light"
-                  onClick={() => window.open('https://wa.me/40727XXXXXX', '_blank')}
+                  onClick={() => window.open('https://wa.me/40727477909', '_blank')}
                 >
                   WhatsApp
                 </Button>
                 <Button
                   variant="light"
-                  onClick={() => window.open('mailto:ioconprez@example.com', '_blank')}
+                  onClick={() => window.open('mailto:ioconprez@gmail.com', '_blank')}
                 >
                   Email
                 </Button>
